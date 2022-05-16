@@ -1,7 +1,5 @@
 # American-Sign-Language-Hand-Gesture-Recognition
 
-# ASL-Sign-Language-Detection
-
 This repository contains the code for Final project EE541 - Americal Sign Language Detection.
 
 # Dependencies
